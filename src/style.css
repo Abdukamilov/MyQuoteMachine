@@ -1,0 +1,35 @@
+html {
+    height: 100%;
+}
+
+#quote-box {
+    padding-top: 2rem;
+    min-height: 300px;
+}
+
+#text {
+    padding-bottom: 1.5rem;
+}
+
+#author {
+    padding-bottom: 1.5rem;
+}
+
+#new-quote {
+
+}
+
+.wrapper {
+    bottom: 0;
+}
+
+#tweet-quote {
+  height: 36px;
+  width: 36px;
+  border: 1px solid blue;
+  border-radius: 4px;
+}
+
+.fa {
+  padding: 10px 10px;
+}
